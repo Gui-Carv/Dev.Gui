@@ -8,6 +8,7 @@ main {
 
 /* MAIN CONTENT =============== */
 main .main-content {
+  text-align: justify;
   display: flex;
   flex-direction: column;
 }
